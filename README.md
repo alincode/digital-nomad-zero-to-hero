@@ -23,12 +23,14 @@
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
 * [We Work Remotely](https://weworkremotely.com/)
+* [7231 Remote Jobs × February 2018 × Workaline.com](https://workaline.com/)
 
 #### Exam
 
 ##### [LeetCode](https://leetcode.com/)
 
 * [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
+* [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
 
 ##### [Codility – Industry Leading Tech Recruiting Platform](https://www.codility.com/)
 
