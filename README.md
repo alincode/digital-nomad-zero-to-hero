@@ -23,6 +23,7 @@
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
 * [We Work Remotely](https://weworkremotely.com/)
+* [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
 
 #### remote job aggregators
 
