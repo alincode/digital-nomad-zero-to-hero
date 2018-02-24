@@ -17,11 +17,11 @@
 
 ### Remote Job / case
 
-* [Toptal - Hire Freelance Talent from the Top 3%](https://www.toptal.com/)
-* [RemoteBase - Best Jobs and Companies for Remote Work](https://remotebase.io/)
+* [RemoteBase](https://remotebase.io/):Best Jobs and Companies for Remote Work
 * [jobbatical](https://jobbatical.com/)
-* [Remote Jobs: Design, Programming, Rails, Executive, Marketing, Copywriting, and more.](https://weworkremotely.com/)
+* [Remote Jobs](https://weworkremotely.com/):Design, Programming, Rails, Executive, Marketing, Copywriting, and more.
 * [RefugeesWork](http://www.refugeeswork.com/)
+* [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
 * [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
