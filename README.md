@@ -15,8 +15,11 @@
 
 * [Issue Explorer | Gitcoin](https://gitcoin.co/explorer?q=)
 
-### Job
+### Remote Job / case
 
+* [Toptal - Hire Freelance Talent from the Top 3%](https://www.toptal.com/)
+* [RemoteBase - Best Jobs and Companies for Remote Work](https://remotebase.io/)
+* [jobbatical](https://jobbatical.com/)
 * [Remote Jobs: Design, Programming, Rails, Executive, Marketing, Copywriting, and more.](https://weworkremotely.com/)
 * [RefugeesWork](http://www.refugeeswork.com/)
 * [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
@@ -33,6 +36,7 @@
 * [Remote Jobs for Digital Nomads](https://remoteok.io/)
 * [GoRemote.io - All of the remote friendly tech jobs in one place, frequently updated - why not work from home?](https://goremote.io/)
 * [Remote Jobs: Hiring Programmers and Designers | Remotely Awesome](https://www.remotelyawesomejobs.com/)
+
 #### Exam
 
 ##### [LeetCode](https://leetcode.com/)
@@ -49,5 +53,18 @@
 ###  Article
 * [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
 
-### Other Repo
+### Digital nomad visa
+* [e-Residency – New Digital Nation](https://e-estonia.com/e-residents/about/)
+
+#### Aritclie
+* [Best Visas for Digital Nomads in 2018 - Location Indie](https://locationindie.com/digital-nomad-visa/)
+* [Digital Nomad Visa Guide for Thailand | Hobo with a Laptop](https://hobowithalaptop.com/thailand-visas-explained)
+* [可能是目前最容易拿到的外国身份证－爱沙尼亚电子公民（附申请攻略） | Jarodise](https://jarodise.com/estonia-e-residency/)
+
+### Github Repo
 * [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs) - Remote-friendly companies
+* [GitHub - yanirs/established-remote: A list of established remote companies](https://github.com/yanirs/established-remote)
+* [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies in tech. This is the list.](https://github.com/remoteintech/remote-jobs)
+
+### Blog
+* [Jarodise | 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/)
