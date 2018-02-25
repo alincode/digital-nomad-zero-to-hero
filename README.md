@@ -21,11 +21,13 @@
 * [jobbatical](https://jobbatical.com/)
 * [Remote Jobs](https://weworkremotely.com/):Design, Programming, Rails, Executive, Marketing, Copywriting, and more.
 * [RefugeesWork](http://www.refugeeswork.com/)
-* [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
-* [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
 * [We Work Remotely](https://weworkremotely.com/)
+* [Slasify 助您實現理想 - Slasify](https://slasify.com/)
+* [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
+
+* [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
 * [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
 
 #### remote job aggregators
