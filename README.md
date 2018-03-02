@@ -11,12 +11,17 @@
 * [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
 * [Meet and Stay with Locals All Over the World | Couchsurfing](https://www.couchsurfing.com/)
 
-### looking for case
+
+### paid mini tasks
 
 * [Issue Explorer | Gitcoin](https://gitcoin.co/explorer?q=)
-
+* [Bountysource](https://www.bountysource.com/?show_profile_modal=1)
+* [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
 ### Remote Job / case
 
+* [We Work Remotely](https://weworkremotely.com/)
+* [Remote JavaScript Jobs | Working Nomads](https://www.workingnomads.co/remote-javascript-jobs)
+* [JS Remotely - All remote JavaScript jobs on one board](https://jsremotely.com/)
 * [Workew - Remote Jobs for digital nomads](https://workew.com/)
 * [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 * [RemoteBase](https://remotebase.io/):Best Jobs and Companies for Remote Work
@@ -25,7 +30,6 @@
 * [RefugeesWork](http://www.refugeeswork.com/)
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
-* [We Work Remotely](https://weworkremotely.com/)
 * [Slasify 助您實現理想 - Slasify](https://slasify.com/)
 * [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
 
@@ -34,10 +38,11 @@
 
 #### remote job aggregators
 
+* [Remote Jobs for Digital Nomads](https://remoteok.io/)
+  * [Remote JavaScript Jobs in Mar 2018](https://remoteok.io/remote-javascript-jobs)
 * [7231 Remote Jobs × February 2018 × Workaline.com](https://workaline.com/)
 * [Go Remote Jobs » Remote Jobs in Programming, Design, Marketing, and More.](https://goremotejobs.com/)
 * [Find a Remote Job and Work from Anywhere | Remote Zoo](https://www.remotezoo.com/)
-* [Remote Jobs for Digital Nomads](https://remoteok.io/)
 * [GoRemote.io - All of the remote friendly tech jobs in one place, frequently updated - why not work from home?](https://goremote.io/)
 * [Remote Jobs: Hiring Programmers and Designers | Remotely Awesome](https://www.remotelyawesomejobs.com/)
 
