@@ -17,6 +17,7 @@
 
 ### Remote Job / case
 
+* [Workew - Remote Jobs for digital nomads](https://workew.com/)
 * [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 * [RemoteBase](https://remotebase.io/):Best Jobs and Companies for Remote Work
 * [jobbatical](https://jobbatical.com/)
