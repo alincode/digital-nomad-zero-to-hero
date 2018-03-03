@@ -1,5 +1,15 @@
 # digital nomad zero to hero
 
+### Book / Ebook
+
+* [遠距工作者在台灣 · GitBook](https://www.gitbook.com/book/alincode/remote-workers/details)
+* [博客來-遠距工作，go！：雲端時代企業與個人的美好生活主張](http://www.books.com.tw/products/0010632940)
+* [天瓏網路書店-工作大解放 : 這樣做事反而更成功 (Rework)](https://www.tenlong.com.tw/products/9789862166055)
+* [博客來-就業的終結：你的未來不屬於任何公司](http://www.books.com.tw/products/0010733539)
+* [博客來-斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生](http://www.books.com.tw/products/0010762201)
+* [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
+
+
 ### Coworking Space
 
 #### Thai - Chiang Mai
@@ -10,7 +20,6 @@
 * [Workfrom — Best Places to Work Remotely in a City](https://workfrom.co/)
 * [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
 * [Meet and Stay with Locals All Over the World | Couchsurfing](https://www.couchsurfing.com/)
-
 
 ### paid mini tasks
 
@@ -46,14 +55,14 @@
 * [GoRemote.io - All of the remote friendly tech jobs in one place, frequently updated - why not work from home?](https://goremote.io/)
 * [Remote Jobs: Hiring Programmers and Designers | Remotely Awesome](https://www.remotelyawesomejobs.com/)
 
-#### Exam
+### Skill level exam
 
+* [HackerRank | Technical Recruiting | Hiring the Best Engineers](https://www.hackerrank.com/)
+* [Codility – Industry Leading Tech Recruiting Platform](https://www.codility.com/)
 ##### [LeetCode](https://leetcode.com/)
 
 * [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
 * [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
-
-##### [Codility – Industry Leading Tech Recruiting Platform](https://www.codility.com/)
 
 ##### interview
 * [2017 後端面試總結 – ChiVincent – Medium](https://medium.com/@chivincent/2017-%E5%BE%8C%E7%AB%AF%E9%9D%A2%E8%A9%A6%E7%B8%BD%E7%B5%90-aca1743e08df)
@@ -61,7 +70,7 @@
 
 ###  Article
 * [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
-
+* [遠端工作溝通技巧：被動式溝通，多層次溝通 | 轉個彎日誌](http://blog.turn.tw/?p=3679)
 ### Digital nomad visa
 * [e-Residency – New Digital Nation](https://e-estonia.com/e-residents/about/)
 
