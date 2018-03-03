@@ -7,19 +7,29 @@
 * [天瓏網路書店-工作大解放 : 這樣做事反而更成功 (Rework)](https://www.tenlong.com.tw/products/9789862166055)
 * [博客來-就業的終結：你的未來不屬於任何公司](http://www.books.com.tw/products/0010733539)
 * [博客來-斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生](http://www.books.com.tw/products/0010762201)
+* [博客來-我們辦公室沒有人！管理大解放，自由工作團隊如何創造更高績效](http://www.books.com.tw/products/0010661150)
+* [博客來-Nomad Life新遊牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！](http://www.books.com.tw/products/0010599154)
 * [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
-
 
 ### Coworking Space
 
 #### Thai - Chiang Mai
 * [Punspace](http://www.punspace.com/)
+* [Starwork Chaing Mai](http://www.starworkchiangmai.com/en/)
+* [C.A.M.P. AIS INSPIRE YOUR CREATIVITY](http://www.ais.co.th/campais/en/)
+* [Co-Working Cafe| Facebook](https://www.facebook.com/coworkingcafe/)
 
 ### looking for Place
 
+#### Web
 * [Workfrom — Best Places to Work Remotely in a City](https://workfrom.co/)
 * [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
 * [Meet and Stay with Locals All Over the World | Couchsurfing](https://www.couchsurfing.com/)
+#### Mobile App
+* [Workfrom - find great workspaces & wifi anywhere. on the App Store](https://itunes.apple.com/us/app/workfrom-find-great-workspaces-wifi-anywhere/id1071958700?mt=8)
+* [WHA by Work Hard Anywhere - WiFi Cafes and Spaces on the App Store](https://itunes.apple.com/us/app/wha-by-work-hard-anywhere-wifi-cafes-and-spaces/id930384923?mt=8)
+* [Moving Nomads - Work Remotely on the App Store](https://itunes.apple.com/app/moving-nomads-work-remotely/id1296213733?mt=8)
+* [Cafe Nomad on the App Store](https://itunes.apple.com/tw/app/cafe-nomad-%E5%92%96%E5%95%A1%E5%BB%B3%E7%9A%84%E9%81%8A%E7%89%A7%E6%B0%91%E6%97%8F/id1191271342?mt=8)
 
 ### paid mini tasks
 
