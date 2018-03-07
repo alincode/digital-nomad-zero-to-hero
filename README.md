@@ -69,12 +69,12 @@
 
 * [HackerRank | Technical Recruiting | Hiring the Best Engineers](https://www.hackerrank.com/)
 * [Codility – Industry Leading Tech Recruiting Platform](https://www.codility.com/)
-##### [LeetCode](https://leetcode.com/)
-
-* [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
-* [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
+* [LeetCode](https://leetcode.com/)
+  * [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
+  * [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
 
 ##### interview
+* [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 * [2017 後端面試總結 – ChiVincent – Medium](https://medium.com/@chivincent/2017-%E5%BE%8C%E7%AB%AF%E9%9D%A2%E8%A9%A6%E7%B8%BD%E7%B5%90-aca1743e08df)
 * [程式設計師如何提問面試官？針對工程師、技術經理及CTO的提問指南 - 每日頭條](https://kknews.cc/career/lzgb9yz.html)
 
