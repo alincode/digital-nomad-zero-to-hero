@@ -11,7 +11,10 @@
 * [博客來-Nomad Life新遊牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！](http://www.books.com.tw/products/0010599154)
 * [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
 
-### Coworking Space
+### Co-living Space
+* [Coliving & Cowering | Roam](https://www.roam.co/)
+* [玖樓共生公寓 9Floor Co-Living Apt. | Share House | Taipei](https://www.9floorspace.com/)
+### Co-working Space
 
 #### Thai - Chiang Mai
 * [Punspace](http://www.punspace.com/)
