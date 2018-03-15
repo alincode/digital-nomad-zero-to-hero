@@ -11,6 +11,7 @@
 * [博客來-Nomad Life新遊牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！](http://www.books.com.tw/products/0010599154)
 * [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
 * [REMOTE: Office Not Required](https://basecamp.com/books/remote)
+* [Remote Team Guide](https://www.gitbook.com/book/x-team/remote-team-guide/details)
 
 ### Coworking Space
 
