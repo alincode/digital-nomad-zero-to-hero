@@ -42,14 +42,13 @@
 * [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
 ### Remote Job / case
 
-* [We Work Remotely](https://weworkremotely.com/)
 * [Remote JavaScript Jobs | Working Nomads](https://www.workingnomads.co/remote-javascript-jobs)
+* [We Work Remotely](https://weworkremotely.com/)
 * [JS Remotely - All remote JavaScript jobs on one board](https://jsremotely.com/)
 * [Workew - Remote Jobs for digital nomads](https://workew.com/)
 * [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 * [RemoteBase](https://remotebase.io/):Best Jobs and Companies for Remote Work
 * [jobbatical](https://jobbatical.com/)
-* [Remote Jobs](https://weworkremotely.com/):Design, Programming, Rails, Executive, Marketing, Copywriting, and more.
 * [RefugeesWork](http://www.refugeeswork.com/)
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
@@ -59,7 +58,7 @@
 * [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
 * [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
 
-#### remote job aggregators
+#### Remote Job Aggregators
 
 * [Remote Jobs for Digital Nomads](https://remoteok.io/)
   * [Remote JavaScript Jobs in Mar 2018](https://remoteok.io/remote-javascript-jobs)
@@ -69,15 +68,18 @@
 * [GoRemote.io - All of the remote friendly tech jobs in one place, frequently updated - why not work from home?](https://goremote.io/)
 * [Remote Jobs: Hiring Programmers and Designers | Remotely Awesome](https://www.remotelyawesomejobs.com/)
 
-### Skill level exam
+### Skill Level Exam
 
+* [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 * [HackerRank | Technical Recruiting | Hiring the Best Engineers](https://www.hackerrank.com/)
 * [Codility – Industry Leading Tech Recruiting Platform](https://www.codility.com/)
 * [LeetCode](https://leetcode.com/)
   * [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
   * [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
+* [程式語言面試考題集錦 | Soft & Share](https://softnshare.wordpress.com/2016/02/21/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E9%9B%86%E9%8C%A6/)
 
 ##### interview
+* [GitHub - ElemeFE/node-interview: How to pass the Node.js interview of ElemeFE.](https://github.com/ElemeFE/node-interview)
 * [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 * [2017 後端面試總結 – ChiVincent – Medium](https://medium.com/@chivincent/2017-%E5%BE%8C%E7%AB%AF%E9%9D%A2%E8%A9%A6%E7%B8%BD%E7%B5%90-aca1743e08df)
 * [程式設計師如何提問面試官？針對工程師、技術經理及CTO的提問指南 - 每日頭條](https://kknews.cc/career/lzgb9yz.html)
