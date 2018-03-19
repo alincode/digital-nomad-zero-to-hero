@@ -102,3 +102,15 @@
 
 ### Blog
 * [Jarodise | 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/)
+
+### Contract template
+
+* [合約範本下載-518外包網 - 兼差、兼職、發案、接案、委外](https://case.518.com.tw/help-contract_download.html)
+
+### for indie developer website
+
+* [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
+* [GitHub - mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
+* [Stripe: Atlas Guide to Starting a Real Business](https://stripe.com/atlas/guides)
+* [Opps List](https://www.oppslist.com/)
+* [Masters of Scale — WaitWhat](https://mastersofscale.com/)
