@@ -2,6 +2,8 @@
 
 ### Book / Ebook
 
+* [Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
+* [REMOTE: Office Not Required](https://basecamp.com/books/remote)
 * [遠距工作者在台灣 · GitBook](https://www.gitbook.com/book/alincode/remote-workers/details)
 * [博客來-遠距工作，go！：雲端時代企業與個人的美好生活主張](http://www.books.com.tw/products/0010632940)
 * [天瓏網路書店-工作大解放 : 這樣做事反而更成功 (Rework)](https://www.tenlong.com.tw/products/9789862166055)
@@ -10,7 +12,6 @@
 * [博客來-我們辦公室沒有人！管理大解放，自由工作團隊如何創造更高績效](http://www.books.com.tw/products/0010661150)
 * [博客來-Nomad Life新遊牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！](http://www.books.com.tw/products/0010599154)
 * [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
-* [REMOTE: Office Not Required](https://basecamp.com/books/remote)
 
 ### Co-living Space
 * [Coliving & Cowering | Roam](https://www.roam.co/)
@@ -42,6 +43,7 @@
 * [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
 ### Remote Job / case
 
+* [Remote Internships – Virtual And Remote Interships](http://remoteinternships.co/)
 * [Remote JavaScript Jobs | Working Nomads](https://www.workingnomads.co/remote-javascript-jobs)
 * [We Work Remotely](https://weworkremotely.com/)
 * [JS Remotely - All remote JavaScript jobs on one board](https://jsremotely.com/)
@@ -60,6 +62,7 @@
 
 #### Remote Job Aggregators
 
+* [Remote Job Lists](https://www.remotejoblists.com/)
 * [Remote Jobs for Digital Nomads](https://remoteok.io/)
   * [Remote JavaScript Jobs in Mar 2018](https://remoteok.io/remote-javascript-jobs)
 * [7231 Remote Jobs × February 2018 × Workaline.com](https://workaline.com/)
@@ -114,3 +117,7 @@
 * [Stripe: Atlas Guide to Starting a Real Business](https://stripe.com/atlas/guides)
 * [Opps List](https://www.oppslist.com/)
 * [Masters of Scale — WaitWhat](https://mastersofscale.com/)
+
+### Mise
+
+* [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
