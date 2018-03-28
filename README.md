@@ -62,6 +62,9 @@
 
 #### Remote Job Aggregators
 
+* [Find your dream remote job - Remotive](https://remotive.io/)
+* [FlexJobs | Remote Jobs, Part-Time Jobs, Freelance Jobs](https://www.flexjobs.com/)
+* [Remote Work: Jobs, Companies & Virtual Teams - Remote.co](https://remote.co/)
 * [Remote Job Lists](https://www.remotejoblists.com/)
 * [Remote Jobs for Digital Nomads](https://remoteok.io/)
   * [Remote JavaScript Jobs in Mar 2018](https://remoteok.io/remote-javascript-jobs)
