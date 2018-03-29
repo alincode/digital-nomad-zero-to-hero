@@ -2,6 +2,7 @@
 
 ### Book / Ebook
 
+* [Amazon.com: The Digital Nomad’s Guide To The World 2018: 14 Destinations. In-Depth Profiles eBook: Christopher R Dodd: Kindle Store](https://www.amazon.com/dp/B078XCDMQQ/)
 * [Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
 * [REMOTE: Office Not Required](https://basecamp.com/books/remote)
 * [遠距工作者在台灣 · GitBook](https://www.gitbook.com/book/alincode/remote-workers/details)
@@ -35,6 +36,10 @@
 * [WHA by Work Hard Anywhere - WiFi Cafes and Spaces on the App Store](https://itunes.apple.com/us/app/wha-by-work-hard-anywhere-wifi-cafes-and-spaces/id930384923?mt=8)
 * [Moving Nomads - Work Remotely on the App Store](https://itunes.apple.com/app/moving-nomads-work-remotely/id1296213733?mt=8)
 * [Cafe Nomad on the App Store](https://itunes.apple.com/tw/app/cafe-nomad-%E5%92%96%E5%95%A1%E5%BB%B3%E7%9A%84%E9%81%8A%E7%89%A7%E6%B0%91%E6%97%8F/id1191271342?mt=8)
+
+#### Articles
+
+* [30 Digital Nomad Destinations: The Best Cities to Live and Work Remotely in 2018 - Chris, the Freelancer](https://christhefreelancer.com/digital-nomad-destinations/)
 
 ### paid mini tasks
 
@@ -73,7 +78,6 @@
 * [Find a Remote Job and Work from Anywhere | Remote Zoo](https://www.remotezoo.com/)
 * [GoRemote.io - All of the remote friendly tech jobs in one place, frequently updated - why not work from home?](https://goremote.io/)
 * [Remote Jobs: Hiring Programmers and Designers | Remotely Awesome](https://www.remotelyawesomejobs.com/)
-
 ### Skill Level Exam
 
 * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
