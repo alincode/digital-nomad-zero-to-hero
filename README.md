@@ -2,9 +2,16 @@
 
 ### Book / Ebook
 
+#### English
+
+* [REMOTE: Office Not Required](https://basecamp.com/books/remote)
+* [Remote Team Guide](https://www.gitbook.com/book/x-team/remote-team-guide/details)
 * [Amazon.com: The Digital Nomad’s Guide To The World 2018: 14 Destinations. In-Depth Profiles eBook: Christopher R Dodd: Kindle Store](https://www.amazon.com/dp/B078XCDMQQ/)
 * [Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
 * [REMOTE: Office Not Required](https://basecamp.com/books/remote)
+
+#### Chinese
+
 * [遠距工作者在台灣 · GitBook](https://www.gitbook.com/book/alincode/remote-workers/details)
 * [博客來-遠距工作，go！：雲端時代企業與個人的美好生活主張](http://www.books.com.tw/products/0010632940)
 * [天瓏網路書店-工作大解放 : 這樣做事反而更成功 (Rework)](https://www.tenlong.com.tw/products/9789862166055)
