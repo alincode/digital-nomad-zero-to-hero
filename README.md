@@ -117,6 +117,8 @@
 * [可能是目前最容易拿到的外国身份证－爱沙尼亚电子公民（附申请攻略） | Jarodise](https://jarodise.com/estonia-e-residency/)
 
 ### Github Repo
+
+* [GitHub - lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources.](https://github.com/lukasz-madon/awesome-remote-job)
 * [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs) - Remote-friendly companies
 * [GitHub - yanirs/established-remote: A list of established remote companies](https://github.com/yanirs/established-remote)
 * [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies in tech. This is the list.](https://github.com/remoteintech/remote-jobs)
