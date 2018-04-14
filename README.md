@@ -108,8 +108,11 @@
 * [How to: Work at Google — Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
 ###  Article
-* [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
+
+* [人啊，好端端的幹嘛要遠端呢？ – 軟人手札](https://softman.blog/2017/09/29/remote-the-meaning/comment-page-1/#)
 * [遠端工作溝通技巧：被動式溝通，多層次溝通 | 轉個彎日誌](http://blog.turn.tw/?p=3679)
+* [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
+
 ### Digital nomad visa
 * [e-Residency – New Digital Nation](https://e-estonia.com/e-residents/about/)
 
