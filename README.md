@@ -1,9 +1,14 @@
 # digital nomad zero to hero
 
+### Video
+
+* [Work Together Anywhere | Lisette Sutherland | TEDxKaunas - YouTube](https://www.youtube.com/watch?v=7GtVD-nnVqU)
+
 ### Book / Ebook
 
 #### English
 
+* [Amazon.com: Work Together Anywhere](https://www.amazon.com/dp/B07C2TTZVG): A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers eBook: Lisette Sutherland, Kirsten Janene-Nelson: Kindle Store
 * [REMOTE: Office Not Required](https://basecamp.com/books/remote)
 * [Remote Team Guide](https://www.gitbook.com/book/x-team/remote-team-guide/details)
 * [Amazon.com: The Digital Nomad’s Guide To The World 2018: 14 Destinations. In-Depth Profiles eBook: Christopher R Dodd: Kindle Store](https://www.amazon.com/dp/B078XCDMQQ/)
