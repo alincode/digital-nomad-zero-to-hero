@@ -8,6 +8,7 @@
 
 #### English
 
+* [Amazon.com: Moving Without Shaking](https://www.amazon.com/Moving-Without-Shaking-guide-success-ebook/dp/B00JXUGQVU): The guide to expat life success (from women to women) eBook: Yelena Mackay: Kindle Store
 * [Amazon.com: Work Together Anywhere](https://www.amazon.com/dp/B07C2TTZVG): A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers eBook: Lisette Sutherland, Kirsten Janene-Nelson: Kindle Store
 * [REMOTE: Office Not Required](https://basecamp.com/books/remote)
 * [Remote Team Guide](https://www.gitbook.com/book/x-team/remote-team-guide/details)
