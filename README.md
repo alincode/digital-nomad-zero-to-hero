@@ -72,11 +72,12 @@
 * [RefugeesWork](http://www.refugeeswork.com/)
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
-* [Slasify 助您實現理想 - Slasify](https://slasify.com/)
-* [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
-
 * [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
 * [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
+
+* [可遠端工作職缺 - 立即應徵 | CakeResume 找工作](https://www.cakeresume.com/jobs?locations%5B%5D=%E5%8F%AF%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C)
+* [Slasify 助您實現理想 - Slasify](https://slasify.com/)
+* [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
 
 #### Remote Job Aggregators
 
@@ -170,6 +171,10 @@
   * [GitHub - podo/awesome-framer: A curated list of awesome things related to Framer prototyping tool](https://github.com/podo/awesome-framer)
 * [Sketch - The digital design toolkit](https://www.sketchapp.com/)
 * [Balsamiq. Rapid, effective and fun wire framing software. | Balsamiq](https://balsamiq.com/)
+
+### improve search skills
+
+* [Google Search Tips](http://www.screencast.com/t/iFw9teMyIpBM)
 ### Mise
 
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
