@@ -105,6 +105,8 @@
 * [程式語言面試考題集錦 | Soft & Share](https://softnshare.wordpress.com/2016/02/21/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E9%9B%86%E9%8C%A6/)
 
 ### Job interview
+
+* [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 * [GitHub - MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [GitHub - ElemeFE/node-interview: How to pass the Node.js interview of ElemeFE.](https://github.com/ElemeFE/node-interview)
 * [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
@@ -175,6 +177,10 @@
 ### improve search skills
 
 * [Google Search Tips](http://www.screencast.com/t/iFw9teMyIpBM)
+
+### Follow Trends
+
+* [Software Engineering Daily](https://softwareengineeringdaily.com/) 
 ### Mise
 
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
