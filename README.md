@@ -1,5 +1,16 @@
 # digital nomad zero to hero
 
+### Developer Map
+
+* [GitHub - chyingp/nodejs-learning-guide: Nodejs学习笔记以及经验总结](https://github.com/chyingp/nodejs-learning-guide)
+* [前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/mobilebasic)
+* [GitHub - xingshaocheng/architect-awesome: 后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+* [Github - kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2018
+* [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)
+### Soft Skill
+
+* [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)
+
 ### Video
 
 * [Work Together Anywhere | Lisette Sutherland | TEDxKaunas - YouTube](https://www.youtube.com/watch?v=7GtVD-nnVqU)
@@ -181,6 +192,12 @@
 ### Follow Trends
 
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) 
+* [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)
+
 ### Mise
 
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
+
+## License
+
+MIT © [alincode](https://github.com/alincode)
