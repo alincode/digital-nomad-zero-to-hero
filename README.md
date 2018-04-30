@@ -10,7 +10,7 @@
 ### Soft Skill
 
 * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)
-
+* [Upwork 101: Build a Successful Upwork Business](https://store.johnmorrisonline.com/product/upwork-101-how-to-build-your-profile/)
 ### Video
 
 * [Work Together Anywhere | Lisette Sutherland | TEDxKaunas - YouTube](https://www.youtube.com/watch?v=7GtVD-nnVqU)
@@ -197,6 +197,19 @@
 ### Mise
 
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
+
+## Video
+
+#### [Freelancing 101](https://www.youtube.com/playlist?list=PLrG78JjvL7hWqX2FW54Ck8UP45fbWQXcu) created by [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
+
+* video count: 4 
+
+| title                                                                                                                                | Published At |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [JMS320: Freelancing 101 - Part 1 - How to Find Problems People Will Pay You to Solve](https://www.youtube.com/watch?v=L0w8D7FHwhU)  | 2018-04-16   |
+| [JMS321: Freelancing 101 - Part 2 - Build Your Freelance Services Sales Page](https://www.youtube.com/watch?v=QX3avc8MtPE)           | 2018-04-17   |
+| [JMS322: Freelancing 101 - Part 3 - How to Use YouTube to Sell Your Freelance Services](https://www.youtube.com/watch?v=TvzSKKXbba8) | 2018-04-19   |
+| [JMS323: Freelancing 101 - Part 4 - How to Get QUALIFIED Views on YouTube](https://www.youtube.com/watch?v=DuYztD1035M)              | 2018-04-19   |
 
 ## License
 
