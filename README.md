@@ -72,6 +72,7 @@
 * [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
 ### Remote Job / case
 
+* [Fiverr - Freelance Services Marketplace for The Lean Entrepreneur](https://www.fiverr.com/)
 * [Workew - Remote Jobs for digital nomads](https://workew.com/)
 * [Remote Internships – Virtual And Remote Interships](http://remoteinternships.co/)
 * [Remote JavaScript Jobs | Working Nomads](https://www.workingnomads.co/remote-javascript-jobs)
