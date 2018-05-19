@@ -9,6 +9,7 @@
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)
 ### Soft Skill
 
+* [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)
 * [Upwork 101: Build a Successful Upwork Business](https://store.johnmorrisonline.com/product/upwork-101-how-to-build-your-profile/)
 ### Video
@@ -115,7 +116,7 @@
   * [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
   * [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
 * [程式語言面試考題集錦 | Soft & Share](https://softnshare.wordpress.com/2016/02/21/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E9%9B%86%E9%8C%A6/)
-
+* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 ### Job interview
 
 * [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
@@ -125,6 +126,7 @@
 * [2017 後端面試總結 – ChiVincent – Medium](https://medium.com/@chivincent/2017-%E5%BE%8C%E7%AB%AF%E9%9D%A2%E8%A9%A6%E7%B8%BD%E7%B5%90-aca1743e08df)
 * [程式設計師如何提問面試官？針對工程師、技術經理及CTO的提問指南 - 每日頭條](https://kknews.cc/career/lzgb9yz.html)
 * [GitHub - jimuyouyou/node-interview-questions: Node.js面试题，侧重后端应用与对Node核心的理解](https://github.com/jimuyouyou/node-interview-questions)
+* [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 #### Video
 * [How to: Work at Google — Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
@@ -197,8 +199,9 @@
 
 ### Mise
 
+* [Hire the best Filipino employees and virtual assistants the Philippines has to offer!](https://www.onlinejobs.ph/)
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
-
+* [Hackr.io - Find &amp; share the best online programming courses &amp; tutorials](https://hackr.io/)
 ## Video
 
 #### [Freelancing 101](https://www.youtube.com/playlist?list=PLrG78JjvL7hWqX2FW54Ck8UP45fbWQXcu) created by [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
