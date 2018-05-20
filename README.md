@@ -192,10 +192,24 @@
 
 * [Google Search Tips](http://www.screencast.com/t/iFw9teMyIpBM)
 
+
+| target     | commend      | example                         |
+|------------|--------------|---------------------------------|
+| search pdf | fileType:pdf | docker cheat sheet fileType:pdf |
+
 ### Follow Trends
 
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) 
 * [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)
+
+### E-Money Service
+
+* [Payoneer](https://www.payoneer.com/)
+* [PayPal Cash Loading](https://www.paypal.com/us/webapps/mpp/ppcash)
+
+#### Virtual Credit Card
+
+* [Virtual Credit Card - Paymaya Philippines](https://www.youtube.com/watch?v=KFY-KtiXz4E)
 
 ### Mise
 
@@ -209,7 +223,7 @@
 * video count: 4 
 
 | title                                                                                                                                | Published At |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | [JMS320: Freelancing 101 - Part 1 - How to Find Problems People Will Pay You to Solve](https://www.youtube.com/watch?v=L0w8D7FHwhU)  | 2018-04-16   |
 | [JMS321: Freelancing 101 - Part 2 - Build Your Freelance Services Sales Page](https://www.youtube.com/watch?v=QX3avc8MtPE)           | 2018-04-17   |
 | [JMS322: Freelancing 101 - Part 3 - How to Use YouTube to Sell Your Freelance Services](https://www.youtube.com/watch?v=TvzSKKXbba8) | 2018-04-19   |
