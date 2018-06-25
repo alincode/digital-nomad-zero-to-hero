@@ -73,6 +73,7 @@
 * [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
 ### Remote Job / case
 
+* [Remote work Golang jobs: Senior Beckend Developer @ JOOX Music and others](https://www.golangprojects.com/golang-remote-jobs.html)
 * [Fiverr - Freelance Services Marketplace for The Lean Entrepreneur](https://www.fiverr.com/)
 * [Workew - Remote Jobs for digital nomads](https://workew.com/)
 * [Remote Internships – Virtual And Remote Interships](http://remoteinternships.co/)
@@ -106,6 +107,7 @@
 * [Find a Remote Job and Work from Anywhere | Remote Zoo](https://www.remotezoo.com/)
 * [GoRemote.io - All of the remote friendly tech jobs in one place, frequently updated - why not work from home?](https://goremote.io/)
 * [Remote Jobs: Hiring Programmers and Designers | Remotely Awesome](https://www.remotelyawesomejobs.com/)
+
 ### Skill Level Exam
 
 * [exercism.io](http://exercism.io/): Level up your programming skills
@@ -117,6 +119,7 @@
   * [LeetCode題解](https://siddontang.gitbooks.io/leetcode-solution/content/)
 * [程式語言面試考題集錦 | Soft & Share](https://softnshare.wordpress.com/2016/02/21/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E9%9B%86%E9%8C%A6/)
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
 ### Job interview
 
 * [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
