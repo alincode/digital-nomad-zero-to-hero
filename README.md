@@ -114,9 +114,9 @@
 
 ### Skill Level Exam
 
+* [HackerRank | Technical Recruiting | Hiring the Best Engineers](https://www.hackerrank.com/)
 * [exercism.io](http://exercism.io/): Level up your programming skills
 * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
-* [HackerRank | Technical Recruiting | Hiring the Best Engineers](https://www.hackerrank.com/)
 * [Codility – Industry Leading Tech Recruiting Platform](https://www.codility.com/)
 * [LeetCode](https://leetcode.com/)
   * [初學者練習 - LeetCode with Javascript](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/)
