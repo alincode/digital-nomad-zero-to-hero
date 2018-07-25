@@ -50,6 +50,7 @@
 ### Co-working Space
 
 #### Thai - Chiang Mai
+
 * [Punspace](http://www.punspace.com/)
 * [Starwork Chaing Mai](http://www.starworkchiangmai.com/en/)
 * [C.A.M.P. AIS INSPIRE YOUR CREATIVITY](http://www.ais.co.th/campais/en/)
@@ -58,6 +59,7 @@
 ### looking for Place
 
 #### Web
+
 * [Workfrom — Best Places to Work Remotely in a City](https://workfrom.co/)
 * [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
 * [Meet and Stay with Locals All Over the World | Couchsurfing](https://www.couchsurfing.com/)
@@ -76,7 +78,7 @@
 * [Issue Explorer | Gitcoin](https://gitcoin.co/explorer?q=)
 * [Bountysource](https://www.bountysource.com/?show_profile_modal=1)
 * [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
-* 
+
 ### Remote Job / case
 
 * [hopWork - Find the best Freelancers on Malt!](https://www.malt.com/)
@@ -182,17 +184,18 @@
 * [Opps List](https://www.oppslist.com/)
 * [Masters of Scale — WaitWhat](https://mastersofscale.com/)
 
-### Time
+### Useful Tools
 
-#### Time Tracker
+#### Time
 
 * [Clockify - Free Time Tracker & Employee Timesheet Software](https://clockify.me/)
 * [WakaTime · Open source plugins, goals, and automatic time tracking for programmers](https://wakatime.com/)
+* [Timezone.io](https://timezone.io/):Keep track where and when your team is.
+* [Tomato Timer](https://tomato-timer.com/)
 
 #### Mise
 
-* [Timezone.io](https://timezone.io/):Keep track where and when your team is.
-* [Tomato Timer](https://tomato-timer.com/)
+* [Slido - Audience Interaction Made Easy](https://www.sli.do/)
 
 ### Prototyping Tools
 
