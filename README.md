@@ -16,6 +16,7 @@
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)
 * [Upwork 101: Build a Successful Upwork Business](https://store.johnmorrisonline.com/product/upwork-101-how-to-build-your-profile/)
+* 
 ### Video
 
 * [Work Together Anywhere | Lisette Sutherland | TEDxKaunas - YouTube](https://www.youtube.com/watch?v=7GtVD-nnVqU)
@@ -75,8 +76,10 @@
 * [Issue Explorer | Gitcoin](https://gitcoin.co/explorer?q=)
 * [Bountysource](https://www.bountysource.com/?show_profile_modal=1)
 * [Tip4Commit —  Contribute to Open Source](https://tip4commit.com/projects)
+* 
 ### Remote Job / case
 
+* [hopWork - Find the best Freelancers on Malt!](https://www.malt.com/)
 * [Remote work Golang jobs: Senior Beckend Developer @ JOOX Music and others](https://www.golangprojects.com/golang-remote-jobs.html)
 * [Fiverr - Freelance Services Marketplace for The Lean Entrepreneur](https://www.fiverr.com/)
 * [Workew - Remote Jobs for digital nomads](https://workew.com/)
@@ -92,8 +95,10 @@
 * [Bug Finders](https://signup.bugfinders.com/)
 * [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
 * [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
-
 * [可遠端工作職缺 - 立即應徵 | CakeResume 找工作](https://www.cakeresume.com/jobs?locations%5B%5D=%E5%8F%AF%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C)
+
+#### focus in Asia
+
 * [Slasify 助您實現理想 - Slasify](https://slasify.com/)
 * [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
 
