@@ -45,8 +45,10 @@
 * [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
 
 ### Co-living Space
+
 * [Coliving & Cowering | Roam](https://www.roam.co/)
 * [玖樓共生公寓 9Floor Co-Living Apt. | Share House | Taipei](https://www.9floorspace.com/)
+
 ### Co-working Space
 
 #### Thai - Chiang Mai
@@ -143,10 +145,12 @@
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 #### Video
+
 * [How to: Work at Google — Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
 ###  Article
 
+* [Learn how to work remotely — Interviews with remote workers](https://remotehabits.com/)
 * [A Guide to Conquering Remote Work Loneliness From Remote Workers](https://stories.buffer.com/remote-work-loneliness-2464933b4bcb)
 * [去你的超時工作：如何計算自己的工作是否過量？試試這一招！ – Remote Taiwan/遠距工作/遠端工作/數位游牧Digital Nomad在台灣 – Medium](https://medium.com/remote-taiwan/%E5%8E%BB%E4%BD%A0%E7%9A%84%E8%B6%85%E6%99%82%E5%B7%A5%E4%BD%9C-%E5%A6%82%E4%BD%95%E8%A8%88%E7%AE%97%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%98%AF%E5%90%A6%E9%81%8E%E9%87%8F-%E8%A9%A6%E8%A9%A6%E9%80%99%E4%B8%80%E6%8B%9B-c35e518a94a9)
 * [6小時就能完成的工作，為何要坐在辦公室8小時？從辦公室文化談遠距工作](https://zoeyk.co/6%E5%B0%8F%E6%99%82%E5%B0%B1%E8%83%BD%E5%AE%8C%E6%88%90%E7%9A%84%E5%B7%A5%E4%BD%9C%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%9D%90%E5%9C%A8%E8%BE%A6%E5%85%AC%E5%AE%A48%E5%B0%8F%E6%99%82%EF%BC%9F/)
@@ -155,9 +159,11 @@
 * [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
 
 ### Digital nomad visa
+
 * [e-Residency – New Digital Nation](https://e-estonia.com/e-residents/about/)
 
 #### Aritclie
+
 * [Best Visas for Digital Nomads in 2018 - Location Indie](https://locationindie.com/digital-nomad-visa/)
 * [Digital Nomad Visa Guide for Thailand | Hobo with a Laptop](https://hobowithalaptop.com/thailand-visas-explained)
 * [可能是目前最容易拿到的外国身份证－爱沙尼亚电子公民（附申请攻略） | Jarodise](https://jarodise.com/estonia-e-residency/)
@@ -170,6 +176,7 @@
 * [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies in tech. This is the list.](https://github.com/remoteintech/remote-jobs)
 
 ### Blog
+
 * [Jarodise | 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/)
 
 ### Contract template
@@ -183,6 +190,10 @@
 * [Stripe: Atlas Guide to Starting a Real Business](https://stripe.com/atlas/guides)
 * [Opps List](https://www.oppslist.com/)
 * [Masters of Scale — WaitWhat](https://mastersofscale.com/)
+
+### Open Company
+
+* [境外公司比較 - Google 搜尋](https://www.google.com.tw/search?q=%E5%A2%83%E5%A4%96%E5%85%AC%E5%8F%B8%E6%AF%94%E8%BC%83)
 
 ### Useful Tools
 
@@ -210,7 +221,6 @@
 
 * [Google Search Tips](http://www.screencast.com/t/iFw9teMyIpBM)
 
-
 | target     | commend      | example                         |
 |------------|--------------|---------------------------------|
 | search pdf | fileType:pdf | docker cheat sheet fileType:pdf |
@@ -234,6 +244,7 @@
 * [Hire the best Filipino employees and virtual assistants the Philippines has to offer!](https://www.onlinejobs.ph/)
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
 * [Hackr.io - Find &amp; share the best online programming courses &amp; tutorials](https://hackr.io/)
+
 ## Video
 
 #### [Freelancing 101](https://www.youtube.com/playlist?list=PLrG78JjvL7hWqX2FW54Ck8UP45fbWQXcu) created by [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
