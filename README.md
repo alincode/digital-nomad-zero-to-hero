@@ -150,6 +150,7 @@
 
 ###  Article
 
+* [遠端合作：印度工作坊經驗分享 – UXeastmeetswest – Medium](https://medium.com/uxeastmeetswest/%E9%81%A0%E7%AB%AF%E5%90%88%E4%BD%9C-%E5%8D%B0%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%9D%8A%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB-e73d8067bc64)
 * [Learn how to work remotely — Interviews with remote workers](https://remotehabits.com/)
 * [A Guide to Conquering Remote Work Loneliness From Remote Workers](https://stories.buffer.com/remote-work-loneliness-2464933b4bcb)
 * [去你的超時工作：如何計算自己的工作是否過量？試試這一招！ – Remote Taiwan/遠距工作/遠端工作/數位游牧Digital Nomad在台灣 – Medium](https://medium.com/remote-taiwan/%E5%8E%BB%E4%BD%A0%E7%9A%84%E8%B6%85%E6%99%82%E5%B7%A5%E4%BD%9C-%E5%A6%82%E4%BD%95%E8%A8%88%E7%AE%97%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%98%AF%E5%90%A6%E9%81%8E%E9%87%8F-%E8%A9%A6%E8%A9%A6%E9%80%99%E4%B8%80%E6%8B%9B-c35e518a94a9)
@@ -246,6 +247,7 @@
 * [Hire the best Filipino employees and virtual assistants the Philippines has to offer!](https://www.onlinejobs.ph/)
 * [Remote Starter Kit by Hanno](http://www.remotestarterkit.com/)
 * [Hackr.io - Find &amp; share the best online programming courses &amp; tutorials](https://hackr.io/)
+* [Error Happened](https://jobs.xpo.network/)
 
 ## Video
 
