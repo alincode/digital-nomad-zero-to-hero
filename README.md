@@ -1,5 +1,28 @@
 # digital nomad zero to hero
 
+## Open Company
+
+* [Simpany - 開公司最安心與貼心的好朋友](https://simpany.co/)
+* [網拍女王學員分享～只花950元～自己就能辦好營業登記喔！立品有機茶園～ @ 網拍女王陳昭君老師網路創業●淘寶●網拍課程●阿里巴巴●批發課程 :: 痞客邦 ::](http://flower0525.pixnet.net/blog/post/445265750-%E7%B6%B2%E6%8B%8D%E5%A5%B3%E7%8E%8B%E5%AD%B8%E5%93%A1%E5%88%86%E4%BA%AB%EF%BD%9E%E5%8F%AA%E8%8A%B1950%E5%85%83%EF%BD%9E%E8%87%AA%E5%B7%B1%E5%B0%B1%E8%83%BD%E8%BE%A6%E5%A5%BD)
+* [境外公司比較 - Google 搜尋](https://www.google.com.tw/search?q=%E5%A2%83%E5%A4%96%E5%85%AC%E5%8F%B8%E6%AF%94%E8%BC%83)
+
+### Service address
+
+* [Wiki - Service Address](https://en.wikipedia.org/wiki/Service_address)
+* [Access post online - service addresses from ScanMyPost](https://www.scanmypost.co.uk/)
+* [Company Address Services from Company Address Limited](https://www.companyaddress.co.uk/service-address/)
+
+### Discussion
+
+* [Can you recommend a service similar to service addresses from ScanMyPost, but located in Hong Kong?](https://www.quora.com/Can-you-recommend-a-service-similar-to-service-addresses-from-ScanMyPost-but-located-in-Hong-Kong)
+* [A guide to service addresses for company directors](https://www.yourcompanyformations.co.uk/blog/a-guide-to-service-addresses-for-company-directors/)
+
+### Keywords
+
+* 閉鎖性股份有限公司 (private company by shares)
+
+---
+
 ### Conference
 
 * [7in7 | Digital Nomad Conference](https://7in7.co/)
@@ -108,6 +131,7 @@
 
 #### Remote Job Aggregators
 
+* [AngelList](https://angel.co/)
 * [Remote Work Hub | Work Virtually Anywhere | Remote Jobs Worldwide](https://remoteworkhub.com/)
 * [Find your dream remote job - Remotive](https://remotive.io/)
 * [FlexJobs | Remote Jobs, Part-Time Jobs, Freelance Jobs](https://www.flexjobs.com/)
@@ -150,6 +174,7 @@
 
 ###  Article
 
+* [How Doist Makes Remote Work Happen](https://blog.doist.com/https-blog-doist-com-managing-remote-teams-622521189e80)
 * [遠端合作：印度工作坊經驗分享 – UXeastmeetswest – Medium](https://medium.com/uxeastmeetswest/%E9%81%A0%E7%AB%AF%E5%90%88%E4%BD%9C-%E5%8D%B0%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%9D%8A%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB-e73d8067bc64)
 * [Learn how to work remotely — Interviews with remote workers](https://remotehabits.com/)
 * [A Guide to Conquering Remote Work Loneliness From Remote Workers](https://stories.buffer.com/remote-work-loneliness-2464933b4bcb)
@@ -192,12 +217,6 @@
 * [Opps List](https://www.oppslist.com/)
 * [Masters of Scale — WaitWhat](https://mastersofscale.com/)
 
-### Open Company
-
-* [Simpany - 開公司最安心與貼心的好朋友](https://simpany.co/)
-* [網拍女王學員分享～只花950元～自己就能辦好營業登記喔！立品有機茶園～ @ 網拍女王陳昭君老師網路創業●淘寶●網拍課程●阿里巴巴●批發課程 :: 痞客邦 ::](http://flower0525.pixnet.net/blog/post/445265750-%E7%B6%B2%E6%8B%8D%E5%A5%B3%E7%8E%8B%E5%AD%B8%E5%93%A1%E5%88%86%E4%BA%AB%EF%BD%9E%E5%8F%AA%E8%8A%B1950%E5%85%83%EF%BD%9E%E8%87%AA%E5%B7%B1%E5%B0%B1%E8%83%BD%E8%BE%A6%E5%A5%BD)
-* [境外公司比較 - Google 搜尋](https://www.google.com.tw/search?q=%E5%A2%83%E5%A4%96%E5%85%AC%E5%8F%B8%E6%AF%94%E8%BC%83)
-
 ### Useful Tools
 
 #### Time
@@ -225,7 +244,7 @@
 * [Google Search Tips](http://www.screencast.com/t/iFw9teMyIpBM)
 
 | target     | commend      | example                         |
-|------------|--------------|---------------------------------|
+| ---------- | ------------ | ------------------------------- |
 | search pdf | fileType:pdf | docker cheat sheet fileType:pdf |
 
 ### Follow Trends
@@ -256,7 +275,7 @@
 * video count: 4 
 
 | title                                                                                                                                | Published At |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [JMS320: Freelancing 101 - Part 1 - How to Find Problems People Will Pay You to Solve](https://www.youtube.com/watch?v=L0w8D7FHwhU)  | 2018-04-16   |
 | [JMS321: Freelancing 101 - Part 2 - Build Your Freelance Services Sales Page](https://www.youtube.com/watch?v=QX3avc8MtPE)           | 2018-04-17   |
 | [JMS322: Freelancing 101 - Part 3 - How to Use YouTube to Sell Your Freelance Services](https://www.youtube.com/watch?v=TvzSKKXbba8) | 2018-04-19   |
