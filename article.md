@@ -1,7 +1,7 @@
 # Article
 
 * [Learn how to work remotely — Interviews with remote workers](https://remotehabits.com/)
-
+* [Jarodise | 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/)
 
 ### Manage a remote tech
 * [How to manage a remote tech team: Tips and tricks - JAXenter](https://jaxenter.com/manage-remote-tech-team-152266.html)

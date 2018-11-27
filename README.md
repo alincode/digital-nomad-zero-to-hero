@@ -47,11 +47,7 @@
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
 * [可遠端工作職缺 - 立即應徵 | CakeResume 找工作](https://www.cakeresume.com/jobs?locations%5B%5D=%E5%8F%AF%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C)
-
-#### focus in Asia
-
-* [Slasify 助您實現理想 - Slasify](https://slasify.com/)
-* [勞動部勞動力發展署外國人在臺工作服務網中文網-一般外國專業人士在臺工作](https://ezworktaiwan.wda.gov.tw/ezworkch/home.jsp?pageno=201508070001)
+* [Outsource an Affordable Global Virtual Team](https://slasify.com/)
 
 #### Remote Job Aggregators
 
@@ -96,26 +92,12 @@
 
 * [How to: Work at Google — Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
-### Digital nomad visa
-
-* [e-Residency – New Digital Nation](https://e-estonia.com/e-residents/about/)
-
-#### Aritclie
-
-* [Best Visas for Digital Nomads in 2018 - Location Indie](https://locationindie.com/digital-nomad-visa/)
-* [Digital Nomad Visa Guide for Thailand | Hobo with a Laptop](https://hobowithalaptop.com/thailand-visas-explained)
-* [可能是目前最容易拿到的外国身份证－爱沙尼亚电子公民（附申请攻略） | Jarodise](https://jarodise.com/estonia-e-residency/)
-
 ### Github Repo
 
 * [GitHub - lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources.](https://github.com/lukasz-madon/awesome-remote-job)
 * [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs) - Remote-friendly companies
 * [GitHub - yanirs/established-remote: A list of established remote companies](https://github.com/yanirs/established-remote)
 * [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies in tech. This is the list.](https://github.com/remoteintech/remote-jobs)
-
-### Blog
-
-* [Jarodise | 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/)
 
 ### Contract template
 
@@ -129,28 +111,6 @@
 * [Opps List](https://www.oppslist.com/)
 * [Masters of Scale — WaitWhat](https://mastersofscale.com/)
 
-### Useful Tools
-
-#### Time
-
-* [Clockify - Free Time Tracker & Employee Timesheet Software](https://clockify.me/)
-* [WakaTime · Open source plugins, goals, and automatic time tracking for programmers](https://wakatime.com/)
-* [Timezone.io](https://timezone.io/):Keep track where and when your team is.
-* [Tomato Timer](https://tomato-timer.com/)
-
-#### Mise
-
-* [Slido - Audience Interaction Made Easy](https://www.sli.do/)
-
-### Prototyping Tools
-
-* [Digital Product Design, Workflow & Collaboration | InVision](https://www.invisionapp.com/)
-* [Prototypes, Specifications, and Diagrams in One Tool | Azure Software](https://www.axure.com/)
-* [Framer - Interactive Design and Prototyping Tool](https://framer.com/)
-  * [GitHub - podo/awesome-framer: A curated list of awesome things related to Framer prototyping tool](https://github.com/podo/awesome-framer)
-* [Sketch - The digital design toolkit](https://www.sketchapp.com/)
-* [Balsamiq. Rapid, effective and fun wire framing software. | Balsamiq](https://balsamiq.com/)
-
 ### improve search skills
 
 * [Google Search Tips](http://www.screencast.com/t/iFw9teMyIpBM)
@@ -163,15 +123,6 @@
 
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) 
 * [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)
-
-### E-Money Service
-
-* [Payoneer](https://www.payoneer.com/)
-* [PayPal Cash Loading](https://www.paypal.com/us/webapps/mpp/ppcash)
-
-#### Virtual Credit Card
-
-* [Virtual Credit Card - Paymaya Philippines](https://www.youtube.com/watch?v=KFY-KtiXz4E)
 
 ### Mise
 
