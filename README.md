@@ -171,18 +171,6 @@
 
 * [How to: Work at Google — Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
-###  Article
-
-* [How Doist Makes Remote Work Happen](https://blog.doist.com/https-blog-doist-com-managing-remote-teams-622521189e80)
-* [遠端合作：印度工作坊經驗分享 – UXeastmeetswest – Medium](https://medium.com/uxeastmeetswest/%E9%81%A0%E7%AB%AF%E5%90%88%E4%BD%9C-%E5%8D%B0%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%9D%8A%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB-e73d8067bc64)
-* [Learn how to work remotely — Interviews with remote workers](https://remotehabits.com/)
-* [A Guide to Conquering Remote Work Loneliness From Remote Workers](https://stories.buffer.com/remote-work-loneliness-2464933b4bcb)
-* [去你的超時工作：如何計算自己的工作是否過量？試試這一招！ – Remote Taiwan/遠距工作/遠端工作/數位游牧Digital Nomad在台灣 – Medium](https://medium.com/remote-taiwan/%E5%8E%BB%E4%BD%A0%E7%9A%84%E8%B6%85%E6%99%82%E5%B7%A5%E4%BD%9C-%E5%A6%82%E4%BD%95%E8%A8%88%E7%AE%97%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%98%AF%E5%90%A6%E9%81%8E%E9%87%8F-%E8%A9%A6%E8%A9%A6%E9%80%99%E4%B8%80%E6%8B%9B-c35e518a94a9)
-* [6小時就能完成的工作，為何要坐在辦公室8小時？從辦公室文化談遠距工作](https://zoeyk.co/6%E5%B0%8F%E6%99%82%E5%B0%B1%E8%83%BD%E5%AE%8C%E6%88%90%E7%9A%84%E5%B7%A5%E4%BD%9C%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%9D%90%E5%9C%A8%E8%BE%A6%E5%85%AC%E5%AE%A48%E5%B0%8F%E6%99%82%EF%BC%9F/)
-* [人啊，好端端的幹嘛要遠端呢？ – 軟人手札](https://softman.blog/2017/09/29/remote-the-meaning/comment-page-1/#)
-* [遠端工作溝通技巧：被動式溝通，多層次溝通 | 轉個彎日誌](http://blog.turn.tw/?p=3679)
-* [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
-
 ### Digital nomad visa
 
 * [e-Residency – New Digital Nation](https://e-estonia.com/e-residents/about/)
