@@ -1,22 +1,9 @@
 # digital nomad zero to hero
 
-## Open Company
-
-* [Simpany - 開公司最安心與貼心的好朋友](https://simpany.co/)
-* [網拍女王學員分享～只花950元～自己就能辦好營業登記喔！立品有機茶園～ @ 網拍女王陳昭君老師網路創業●淘寶●網拍課程●阿里巴巴●批發課程 :: 痞客邦 ::](http://flower0525.pixnet.net/blog/post/445265750-%E7%B6%B2%E6%8B%8D%E5%A5%B3%E7%8E%8B%E5%AD%B8%E5%93%A1%E5%88%86%E4%BA%AB%EF%BD%9E%E5%8F%AA%E8%8A%B1950%E5%85%83%EF%BD%9E%E8%87%AA%E5%B7%B1%E5%B0%B1%E8%83%BD%E8%BE%A6%E5%A5%BD)
-* [境外公司比較 - Google 搜尋](https://www.google.com.tw/search?q=%E5%A2%83%E5%A4%96%E5%85%AC%E5%8F%B8%E6%AF%94%E8%BC%83)
-* [新創該成為「有限公司」、「股份有限公司」還是「閉鎖性股份有限公司」？ - Meet 創業小聚](https://meet.bnext.com.tw/articles/view/43846)
-
-### Service address
-
-* [Wiki - Service Address](https://en.wikipedia.org/wiki/Service_address)
-* [Access post online - service addresses from ScanMyPost](https://www.scanmypost.co.uk/)
-* [Company Address Services from Company Address Limited](https://www.companyaddress.co.uk/service-address/)
-
-### Discussion
-
-* [Can you recommend a service similar to service addresses from ScanMyPost, but located in Hong Kong?](https://www.quora.com/Can-you-recommend-a-service-similar-to-service-addresses-from-ScanMyPost-but-located-in-Hong-Kong)
-* [A guide to service addresses for company directors](https://www.yourcompanyformations.co.uk/blog/a-guide-to-service-addresses-for-company-directors/)
+### freelancing platform
+* [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
+* [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
+* [hopWork - Find the best Freelancers on Malt!](https://www.malt.com/)
 
 ### Rent meetup space
 
@@ -66,37 +53,6 @@
 * [博客來-Nomad Life新遊牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！](http://www.books.com.tw/products/0010599154)
 * [博客來-一週工作4小時：擺脫朝九晚五的窮忙生活，晉身「新富族」！【全新增訂版】](http://www.books.com.tw/products/0010621037)
 
-### Co-living Space
-
-* [Coliving & Cowering | Roam](https://www.roam.co/)
-* [玖樓共生公寓 9Floor Co-Living Apt. | Share House | Taipei](https://www.9floorspace.com/)
-
-### Co-working Space
-
-#### Thai - Chiang Mai
-
-* [Punspace](http://www.punspace.com/)
-* [Starwork Chaing Mai](http://www.starworkchiangmai.com/en/)
-* [C.A.M.P. AIS INSPIRE YOUR CREATIVITY](http://www.ais.co.th/campais/en/)
-* [Co-Working Cafe| Facebook](https://www.facebook.com/coworkingcafe/)
-
-### looking for Place
-
-#### Web
-
-* [Workfrom — Best Places to Work Remotely in a City](https://workfrom.co/)
-* [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
-* [Meet and Stay with Locals All Over the World | Couchsurfing](https://www.couchsurfing.com/)
-#### Mobile App
-* [Workfrom - find great workspaces & wifi anywhere. on the App Store](https://itunes.apple.com/us/app/workfrom-find-great-workspaces-wifi-anywhere/id1071958700?mt=8)
-* [WHA by Work Hard Anywhere - WiFi Cafes and Spaces on the App Store](https://itunes.apple.com/us/app/wha-by-work-hard-anywhere-wifi-cafes-and-spaces/id930384923?mt=8)
-* [Moving Nomads - Work Remotely on the App Store](https://itunes.apple.com/app/moving-nomads-work-remotely/id1296213733?mt=8)
-* [Cafe Nomad on the App Store](https://itunes.apple.com/tw/app/cafe-nomad-%E5%92%96%E5%95%A1%E5%BB%B3%E7%9A%84%E9%81%8A%E7%89%A7%E6%B0%91%E6%97%8F/id1191271342?mt=8)
-
-#### Articles
-
-* [30 Digital Nomad Destinations: The Best Cities to Live and Work Remotely in 2018 - Chris, the Freelancer](https://christhefreelancer.com/digital-nomad-destinations/)
-
 ### paid mini tasks
 
 * [Issue Explorer | Gitcoin](https://gitcoin.co/explorer?q=)
@@ -105,7 +61,6 @@
 
 ### Remote Job / case
 
-* [hopWork - Find the best Freelancers on Malt!](https://www.malt.com/)
 * [Remote work Golang jobs: Senior Beckend Developer @ JOOX Music and others](https://www.golangprojects.com/golang-remote-jobs.html)
 * [Fiverr - Freelance Services Marketplace for The Lean Entrepreneur](https://www.fiverr.com/)
 * [Workew - Remote Jobs for digital nomads](https://workew.com/)
@@ -119,8 +74,6 @@
 * [RefugeesWork](http://www.refugeeswork.com/)
 * [StackOverFlow Remote Job](http://stackoverflow.com/jobs?allowsremote=true)
 * [Bug Finders](https://signup.bugfinders.com/)
-* [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
-* [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
 * [可遠端工作職缺 - 立即應徵 | CakeResume 找工作](https://www.cakeresume.com/jobs?locations%5B%5D=%E5%8F%AF%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C)
 
 #### focus in Asia
