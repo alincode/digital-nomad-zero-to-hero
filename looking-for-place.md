@@ -4,6 +4,9 @@
 * [Coliving & Cowering | Roam](https://www.roam.co/)
 * [玖樓共生公寓 9Floor Co-Living Apt. | Share House | Taipei](https://www.9floorspace.com/)
 
+### Rent meetup room space
+* [小樹屋Treerful](https://www.treerful.com/): 會議室預訂與短租場地空間
+
 ### Thai - Chiang Mai
 * [Punspace](http://www.punspace.com/)
 * [Starwork Chaing Mai](http://www.starworkchiangmai.com/en/)
