@@ -25,3 +25,4 @@
 
 ### Mise
 * [agile and remote worker](https://www.thoughtworks.com/insights/blog/agile-and-remote-worker)
+* [台灣和國外的外包/接案網站 Project Freelancer Website @ SoFi :: 痞客邦 ::](http://aluileung.pixnet.net/blog/post/31657063-%E5%8F%B0%E7%81%A3%E5%92%8C%E5%9C%8B%E5%A4%96%E7%9A%84%E5%A4%96%E5%8C%85-%E6%8E%A5%E6%A1%88%E7%B6%B2%E7%AB%99-project-freelancer-web)
