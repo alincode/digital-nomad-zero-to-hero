@@ -4,6 +4,7 @@
 * [Toptal](https://www.toptal.com/):Hire Freelance Talent from the Top 3%
 * [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
 * [hopWork - Find the best Freelancers on Malt!](https://www.malt.com/)
+* [BlockchainDevs - The Reverse Job Board for Blockchain developers](https://www.blockchaindevs.net/)
 
 ### Conference
 
@@ -48,6 +49,7 @@
 * [Bug Finders](https://signup.bugfinders.com/)
 * [可遠端工作職缺 - 立即應徵 | CakeResume 找工作](https://www.cakeresume.com/jobs?locations%5B%5D=%E5%8F%AF%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C)
 * [Outsource an Affordable Global Virtual Team](https://slasify.com/)
+* [4dayweek - Jobs with a better work-life balance](https://4dayweek.io/)
 
 #### Remote Job Aggregators
 
